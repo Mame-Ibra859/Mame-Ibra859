@@ -1,6 +1,7 @@
-## Mame Ibra FAYE - Data Scientist & DevOps 
+## Mame Ibra FAYE - Data Scientist & DevOps
 
-Data Scientist (Bac+5 UGB) avec un fort background DevOps. 
-Je construis des modèles ML et je les déploie : Docker,Kubernetes, CI/CD, FastAPI.
+Bac+5 UGB - Data & MLOps
+De la donnée brute au modèle en production.
 
-Stack: Python | SQL | Docker | ML | MLOps
+**Stack Data :** Python, SQL, Scikit-learn, XGBoost, Pandas
+**Stack Ops :** Docker, GitHub Actions, FastAPI, Linux, CI/CD
