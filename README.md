@@ -23,4 +23,4 @@
 
 ---
 
-📍 Dakar, Sénégal | 📧 Ouvert aux opportunités MLOps / Fintech
+📍 Dakar, Sénégal | 📧 Ouvert aux opportunités MLOps / Fintech /DevOps
