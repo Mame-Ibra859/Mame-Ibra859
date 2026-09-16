@@ -24,4 +24,3 @@
 ---
 
 📍 Dakar, Sénégal | 📧 Ouvert aux opportunités MLOps / Fintech
-<img width="853" height="739" alt="image" src="https://github.com/user-attachments/assets/89564fb8-dee9-4eac-afa2-c5cd19794fac" />
