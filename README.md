@@ -1,7 +1,26 @@
 ## Data Scientist & DevOps
 
-Bac+5 UGB - Data & MLOps & Software Engineer  
-De la donnée brute au modèle en production.
+**Bac+5 UGB | Data & MLOps & Software Engineer**
+> De la donnée brute au produit en production.
 
-**Stack Data :** Python, SQL,ML, Scikit-learn, XGBoost, Pandas,...  
-**Stack Ops :** Docker, Kubernetes, GitHub Actions, FastAPI, Linux, CI/CD,...
+---
+
+### 🧠 Stack Data
+`Python` `SQL` `Machine Learning` `Scikit-learn` `XGBoost` `Pandas` `NumPy`
+
+### 💻 Stack Software
+`TypeScript` `Next.js` `Node.js` `FastAPI` `PostgreSQL` `REST API`
+
+### ⚙️ Stack Ops
+`Docker` `Kubernetes` `FluxCD` `GitHub Actions` `Linux` `CI/CD` `GitOps`
+
+---
+
+### 🚀 Projets Phares
+- **[devops-portfolio]** - Portfolio d'excellence, expérience web premium en Next.js
+- **[git-ops-fluxcd-portfolio]** - Infra GitOps complète avec automatisation d'images
+- **[MLOps]** - Pipelines ML de bout en bout
+
+---
+
+📍 Dakar, Sénégal | 📧 Ouvert aux opportunités MLOps / Fintech
