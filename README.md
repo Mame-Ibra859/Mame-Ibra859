@@ -1,4 +1,4 @@
-## Mame Ibra FAYE - Data Scientist & DevOps
+## Data Scientist & DevOps
 
 Bac+5 UGB - Data & MLOps  
 De la donnée brute au modèle en production.
