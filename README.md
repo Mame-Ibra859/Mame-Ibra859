@@ -1,6 +1,6 @@
 ## Data Scientist & DevOps
 
-Bac+5 UGB - Data & MLOps  
+Bac+5 UGB - Data & MLOps & Software Engineer
 De la donnée brute au modèle en production.
 
 **Stack Data :** Python, SQL,ML, Scikit-learn, XGBoost, Pandas,...  
