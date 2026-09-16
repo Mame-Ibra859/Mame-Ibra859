@@ -19,7 +19,7 @@
 ### 🚀 Projets Phares
 - **[devops-portfolio]** - Portfolio d'excellence, expérience web premium en Next.js
 - **[git-ops-fluxcd-portfolio]** - Infra GitOps complète avec automatisation d'images
-- **[MLOps]** - Pipelines ML de bout en bout
+- **[credit-scoring]** - Modèle de scoring crédit : Python, XGBoost & MLOps
 
 ---
 
